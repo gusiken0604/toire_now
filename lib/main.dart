@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:toire_now/search_toilet_page.dart';
 
 void main() {
@@ -20,4 +21,7 @@ class MyApp extends StatelessWidget {
       home: const SearchToiletPage()
     );
   }
+
+
+
 }
